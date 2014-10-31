@@ -1,0 +1,6 @@
+C:\inetpub\wwwroot\DNN733-141016\bin\CygnetColorPicker.dll
+C:\inetpub\wwwroot\DNN733-141016\bin\CygnetColorPicker.pdb
+C:\inetpub\wwwroot\DNN733-141016\DesktopModules\CygnetColorPicker\obj\Release\CygnetColorPicker.dll
+C:\inetpub\wwwroot\DNN733-141016\DesktopModules\CygnetColorPicker\obj\Release\CygnetColorPicker.pdb
+C:\inetpub\wwwroot\DNN733-141016\DesktopModules\CygnetColorPicker\obj\Release\CygnetColorPicker.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\DNN733-141016\bin\CygnetColorPicker.dll.config
